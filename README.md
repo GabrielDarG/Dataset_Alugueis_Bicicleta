@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/29300912/README.md)
 # 🚲 Previsão de Aluguéis de Bicicleta (Seoul Bike Sharing)
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)
