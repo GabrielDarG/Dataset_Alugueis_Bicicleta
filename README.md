@@ -1,6 +1,11 @@
 [README.md](https://github.com/user-attachments/files/29300912/README.md)
 # 🚲 Previsão de Aluguéis de Bicicleta (Seoul Bike Sharing)
 
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EB0029?style=flat&logo=xgboost&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat&logo=lightgbm&logoColor=white)
+
 Modelo de Machine Learning que prevê a **demanda de aluguéis de bicicleta** em Seoul com base em condições climáticas, data e horário. O projeto compara 4 algoritmos de regressão, otimiza o melhor deles com busca de hiperparâmetros e entrega um modelo final pronto para fazer previsões com dados novos.
 
 ## 📊 Sobre o projeto
